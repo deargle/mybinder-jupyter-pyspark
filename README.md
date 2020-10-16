@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deargle/mybinder-jupyter-pyspark/main)
+
 minimal dockerfile for launching the jupyter/pyspark-notebook:feacdbfc2e89
 docker instance on mybinder
 
