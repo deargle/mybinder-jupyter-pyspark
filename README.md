@@ -4,3 +4,5 @@ docker instance on mybinder
 https://mybinder.readthedocs.io/en/latest/tutorials/dockerfile.html#when-you-must-inherit-from-a-popular-docker-image
 
 https://mybinder.readthedocs.io/en/latest/examples/sample_repos.html#minimal-dockerfiles-for-binder
+
+https://github.com/binder-examples/jupyter-stacks
